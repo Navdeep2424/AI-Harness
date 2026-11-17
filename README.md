@@ -1,4 +1,4 @@
-# CodeX — Codex project harness
+# project harness
 
 A local Chief of Staff for coding projects: project routing, a durable task queue, isolated task branches, project notes, readiness checks, and a local status dashboard. Inspired by [claude-harness-starter](https://github.com/RishabhSFI/claude-harness-starter), implemented for Codex using Node built-ins. No Claude desktop or pstack dependency.
 
